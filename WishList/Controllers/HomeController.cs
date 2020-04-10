@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WishList.Controllers
 {
-    public class HomeControllerController : Controller
+    public class HomeController : Controller
     {
         public IActionResult Index()
         {
